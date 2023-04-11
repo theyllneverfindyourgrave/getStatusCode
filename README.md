@@ -1,1 +1,1 @@
-# getRequest
+# getStatusCode
